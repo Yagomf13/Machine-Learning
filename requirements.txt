@@ -3,3 +3,4 @@ pandas==2.0.1
 numpy==1.24.3
 scikit-learn==1.3.0
 nltk==3.8.1
+liac-arff
